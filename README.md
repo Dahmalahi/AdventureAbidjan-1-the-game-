@@ -5,14 +5,7 @@ Un jeune professionnel à Abidjan vit une matinée pleine de mystères : SMS ano
 Plusieurs fins possibles selon vos décisions.
 
 **Résumé en une phrase**  
-Un jeu narratif mobile rétro (240x320<img width="240" height="320" alt="2026_01_29_19_44_28_121_lcd" src="https://github.com/user-attachments/assets/ddce4f25-4cd7-4543-8282-035765d9e866" />
-<img width="240" height="320" alt="2026_01_29_19_43_59_145_lcd" src="https://github.com/user-attachments/assets/04737081-d236-4891-b92d-0e3d43c0648e" />
-<img width="240" height="320" alt="2026_01_29_19_44_24_198_lcd" src="https://github.com/user-attachments/assets/8907b640-81f5-4351-bac7-d21670307856" />
-<img width="240" height="320" alt="2026_01_29_19_44_03_204_lcd" src="https://github.com/user-attachments/assets/e9409d4f-8d9f-4fca-ac01-a358673e5eb9" />
-<img width="240" height="320" alt="2026_01_29_19_44_05_090_lcd_1" src="https://github.com/user-attachments/assets/da933045-a69b-4681-9f4f-e8e075810fab" />
-<img width="240" height="320" alt="2026_01_29_19_43_55_248_lcd" src="https://github.com/user-attachments/assets/4854ca6d-0a34-4371-ae2b-5b8c79126b02" />
-<img width="240" height="320" alt="2026_01_29_19_44_09_239_lcd" src="https://github.com/user-attachments/assets/f710c980-cdc9-4950-a5e3-f00a8facc976" />
- px) où vous gérez votre matinée à Abidjan entre routine professionnelle, enquête dangereuse et survie quotidienne – le tout en Java ME avec sauvegarde, pixel art et 4 fins différentes.
+Un jeu narratif mobile rétro (240x320 px) où vous gérez votre matinée à Abidjan entre routine professionnelle, enquête dangereuse et survie quotidienne – le tout en Java ME avec sauvegarde, pixel art et 4 fins différentes.
 
 ## Fonctionnalités principales
 
@@ -59,3 +52,12 @@ MIT – libre de modifier, porter (Android, web, etc.) ou publier.
 > Nostalgie des jeux Java 2025–2026, made in Abidjan 🇨🇮
 
 Bienvenue dans l'aventure !
+
+<img width="240" height="320" alt="2026_01_29_19_44_28_121_lcd" src="https://github.com/user-attachments/assets/c230a828-7efe-4b7e-994d-d194adcb90cc" />
+<img width="240" height="320" alt="2026_01_29_19_43_59_145_lcd" src="https://github.com/user-attachments/assets/3cf5d476-d33d-4a0b-b6fa-016006bd2469" />
+<img width="240" height="320" alt="2026_01_29_19_44_24_198_lcd" src="https://github.com/user-attachments/assets/b5e3987b-cc47-4af1-897b-e88b5b7fd0e9" />
+<img width="240" height="320" alt="2026_01_29_19_44_03_204_lcd" src="https://github.com/user-attachments/assets/34c47061-32fa-4a06-af61-b7c2416fcf0b" />
+<img width="240" height="320" alt="2026_01_29_19_44_05_090_lcd_1" src="https://github.com/user-attachments/assets/805d5204-a430-4480-bad7-b7b1cb87b7db" />
+<img width="240" height="320" alt="2026_01_29_19_43_55_248_lcd" src="https://github.com/user-attachments/assets/f6e8bf70-eb85-4a41-82e4-87d63a00c50d" />
+<img width="240" height="320" alt="2026_01_29_19_44_09_239_lcd" src="https://github.com/user-attachments/assets/97c1a09c-48fe-4fc0-a9c5-8ddafc3a4356" />
+
