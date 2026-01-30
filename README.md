@@ -52,6 +52,11 @@ MIT – libre de modifier, porter (Android, web, etc.) ou publier.
 > Nostalgie des jeux Java 2025–2026, made in Abidjan 🇨🇮
 
 Bienvenue dans l'aventure !
+Youtube 🌐: DASH ANIMATION V2
+https://youtube.com/@dash______animationv2?si=vIx5fIhS8PbDRTDH
+Telegram channel📲 : Java game uploader 240x320 https://t.me/javagameuploader240_320
+Email 🖨️: ndukadavid70@gmail.com 
+Personnal number📞 : +225 0788463112 
 
 <img width="240" height="320" alt="2026_01_29_19_44_28_121_lcd" src="https://github.com/user-attachments/assets/c230a828-7efe-4b7e-994d-d194adcb90cc" />
 <img width="240" height="320" alt="2026_01_29_19_43_59_145_lcd" src="https://github.com/user-attachments/assets/3cf5d476-d33d-4a0b-b6fa-016006bd2469" />
